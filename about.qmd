@@ -3,7 +3,4 @@ title: "About"
 ---
 
 
-
-```{r}
-Website Organization 
-```
+small change
