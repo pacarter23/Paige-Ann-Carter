@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Prohibited Paramours, Purposeful Partners: Illicit Sexual Encounters in the Eighteenth Century North Carolina Borderlands"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
