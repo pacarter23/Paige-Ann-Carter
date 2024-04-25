@@ -1,11 +1,29 @@
 ---
-title: "Home"
+title: "Paige Ann Carter"
 ---
+![](headshot.png){width=400, height=400}
 
-This is a Quarto website.
+## History Master's Student at Virginia Tech
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# Biography 
 
-```{r}
-1 + 1
-```
+I am currently a History Master's Student at Virginia Polytechnic State and Technical Institute. My research interests broadly include the history of women, gender, and sexuality, specifically illicit sex and the relationship between sex, law, and power. I am in the process of researching, writing, and completing my Master's portfolio project which examines illicit sexual encounters in the borderlands of eighteenth century North Carolina. 
+
+## Education 
+
+
+### BA in History, 2023 - Catawba College 
+##### Minor in Secondary Education 
+
+
+## Interest
+
+- History of Women, Gender, and Sexuality 
+- The Intersection of Historical Research and Feminist Advocacy 
+- History and Social Sciences Education 
+- Interior Design 
+- Crocheting 
+- Fantasy Novels 
+
+ 
+
