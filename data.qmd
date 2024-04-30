@@ -1,0 +1,45 @@
+---
+title: "Data Set"
+format: html
+editor: visual
+execute: 
+  echo: false
+---
+
+# Rowan County Bastardy Bond Postings, 1757-1796
+
+## Understanding the Data Set
+
+The following data set contains information on all available bastardy bond postings in Rowan County for the eighteenth century. This data lists the name of the individuals involved, their role in the posting, and a description of the documents.
+
+Each individual person and event present in the data set has been assigned a person and event identification number. As my research progresses, the hope is to add to the data set and map what individuals are interacting with one another. This will also help give an idea of what demographic groups were most impacted by these laws.
+
+# Data Sets
+
+## People
+
+This is the table of people 
+
+```{r}
+#| message: false
+library(tidyverse)
+
+
+people <- read_csv("portfolio_data_people.csv", 
+                   col_types = cols(date = col_date("%Y%m%d")))
+events <- read_csv("portfolio_data_events.csv", 
+                   col_types = cols(date = col_date("%Y%m%d")))
+
+rmarkdown::paged_table(people)
+
+```
+
+
+## Events 
+
+This is a table of events 
+
+```{r}
+rmarkdown::paged_table(events)
+```
+

@@ -1,0 +1,32 @@
+﻿person id,event id,date,given name ,role ,notes 
+BBP-001,BBE-001,17571020,john oliphant ,informant ,
+BBP-002,BBE-001,17571020,john brevard ,justice ,
+BBP-003,BBE-001,17571020,david hall ,father ,must appear at the next court 
+BBP-004,BBE-001,17571020,william hall ,parent of father ,
+BBP-005,BBE-001,17571020,jane gullick ,mother ,
+BBP -006,BBE-002,17580523,james hal(?),justice ,
+BBP -007,BBE-002,17580523,hugh neilson ,father ,
+BBP -008,BBE-002,17580523,margaret farley ,mother ,
+BBP -009,BBE-002,17580523,john lock ,constable ,
+BBP -010,BBE-002,17580523,alexander cathey,constable ,
+BBP -011,BBE-002,17580523,robert guilford ,police ,appears as if he is holding neilson for trial or in charge of apprehending him 
+BBP -012,BBE-003,17720103,rachel cruswell ,mother ,noted as being sixteen years old in 1772
+BBP -013,BBE-003,17720103,david little,justice ,
+BBP -014,BBE-003,17720103,william temple ,justice ,
+BBP -015,BBE-003,17720103,william butler ,"father, bondsman",must appear at next superior court of pleas and quarter sessions on the first tuesday of february next 
+BBP -016,BBE-003,17720103,philip williams ,bondsman,
+BBP -017,BBE-003,17720103,thomas dunahowe ,bondsman ,
+BBP -018,BBE-003,17720103,allexander ozborn ,court chairman ,
+BBP -019,BBE-004,17741217,james richardson ,father ,
+BBP -020,BBE-004,17741217,john kenedey,parent of mother ,
+BBP -021,BBE-004,17741217,margret kenedey,mother ,
+BBP -022,BBE-004,17741217,william berry ,arbitrator ,
+BBP -023,BBE-004,17741217,joseph white ,arbitrator ,
+BBP -024,BBE-004,17741217,john hall ,arbitrator ,
+BBP -025,BBE-004,17741217,james lapesly ,arbitrator ,
+BBP -026,BBE-005,17770901,mary moorfield,mother ,
+BBP -027,BBE-005,17770901,john green ,father ,stated as being a widower 
+BBP -028,BBE-005,17770901,james(?) smith ,justice ,
+BBP -029,BBE-005,17770901,robert moore ,justice ,
+BBP -030,BBE-006,17960730,margaret huges ,mother ,
+BBP-031,BBE-006,17960730,benjamin hide,father ,places a warrant for the father 

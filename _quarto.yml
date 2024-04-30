@@ -2,16 +2,21 @@ project:
   type: website
 
 website:
-  title: "Prohibited Paramours, Purposeful Partners: Illicit Sexual Encounters in the Eighteenth Century North Carolina Borderlands"
+  title: "Paige Ann Carter"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Home 
+      - href: about.qmd
+        text: Current Research 
+      - href: data.qmd
+        text: Data Set 
 
 format:
   html:
-    theme: cosmo
+    theme:
+      - litera
+      - custom.scss
     css: styles.css
     toc: true
 
