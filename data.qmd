@@ -18,7 +18,6 @@ Each individual person and event present in the data set has been assigned a per
 
 ## People
 
-This is the table of people 
 
 ```{r}
 #| message: false
@@ -37,7 +36,6 @@ rmarkdown::paged_table(people)
 
 ## Events 
 
-This is a table of events 
 
 ```{r}
 rmarkdown::paged_table(events)
