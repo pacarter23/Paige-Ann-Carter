@@ -6,7 +6,9 @@ title: "Current Research"
 
 Virginia Tech requires all Master's students to compile a portfolio that contains three elements: an article length research paper, a history project of the students choice, and a historiography exam based on two book thematic book lists based on the students research interests. To meet these program requirements, I am currently writing two article length papers that examine sexual encounters deemed illicit by North Carolina's colonial authorities. My portfolio as a whole is entitled *Prohibited Paramours, Purposeful Partners: Illicit Sexual Encounters in the Eighteenth Century Borderlands of North Carolina*
 
-![](nc_map.png){width=600, height=600}
+
+![Map of the Carolina Cradle with the Catawba (left) and Yadkin (right) rivers.](nc_map.png){width=600, height=600}
+
 
 ## Prohibited Paramours: White Settler Women and the Law in the North Carolina Borderlands 
 
